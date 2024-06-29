@@ -2,7 +2,33 @@
 
 # Browser Theme for Programmer
 
-> Programmer's theme for your favorite web browser like Firefox or Chrome.
+> Programmer's color theme for your favorite web browser, Google's Chrome.
+
+<br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+# Download and install Chrome theme in Chrome 75+
+
+## Install an unpacked extension (theme) in developer mode.
+
+> Note: This may not work on MacOS.
+
+- Download a theme zip file to your computer and extract it to a new folder.
+- Go to the Extensions page by entering `chrome://extensions` in a new tab. Alternatively,
+  - click the `Extensions menu puzzle button` and select `Manage Extensions` at the bottom. or
+  - At the top right, click the three dots button, then `Extensions` -> `Manage Extensions`.
+- At the top right, enable `Developer mode` by clicking the toggle switch next to `Developer mode`.
+- Click the `Load unpacked` button and select the extension directory. Click `OK`.
+- The extension (theme) has been successfully installed.
+- Enjoy.
+- If you have any [issues](https://github.com/iamprogrammerlk/browser_theme_for_programmer/issues). don't forget to [submit it on the GitHub](https://github.com/iamprogrammerlk/browser_theme_for_programmer/issues).
+
+## Removing Chrome theme
+
+1. Go to [chrome://settings/](chrome://settings/).
+2. Under `Appearance`, click `Use Classic`. You'll see the classic Google Chrome theme again.
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
