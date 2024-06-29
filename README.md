@@ -17,7 +17,7 @@
 
 > Note: This may not work on MacOS.
 
-- [Download a theme zip](/releases) file to your computer and extract it to a new folder.
+- [Download a theme zip](/../../releases) file to your computer and extract it to a new folder.
 - Go to the Extensions page by entering `chrome://extensions` in a new tab. Alternatively,
   - click the `Extensions menu puzzle button` and select `Manage Extensions` at the bottom. or
   - At the top right, click the three dots button, then `Extensions` -> `Manage Extensions`.
