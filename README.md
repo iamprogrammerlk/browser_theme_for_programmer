@@ -11,7 +11,13 @@
 
 # Download and install Chrome theme in Chrome 75+
 
-[Download](/CHANGLOG.md)
+## Go to `Chrome Web Store` and add it to your browser.(recommended)
+
+- Browser Theme for Programmer - Blue [Latest Version](https://chromewebstore.google.com/detail/dnalbbkfhlogllhhpmfahahlefeicgcm)
+
+## Or do it manually
+
+[See the Changelog](/CHANGLOG.md)
 
 ## Install an unpacked extension (theme) in developer mode.
 
