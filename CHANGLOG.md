@@ -8,10 +8,10 @@
 - Changes Tree
 -->
 
-## [Blue v1.0.1 (2024-07-07)](/release/browser_theme_for_programmer_blue/browser_theme_for_programmer_blue_v1.0.1.zip)
+## [Blue v1.0.1 (2024-07-07)](/../../releases/tag/blue_v1.0.1)
 
 - Fixed the issue "Download error: Could not install package: 'INVALID PATH FOR_BROWSER_IMAGE'".
 
-## [Blue v1.0.0 (2024-07-07)](/release/browser_theme_for_programmer_blue/browser_theme_for_programmer_blue_v1.0.0.zip)
+## [Blue v1.0.0 (2024-07-07)](/../../releases/tag/blue_v1.0.0)
 
 - First release.
