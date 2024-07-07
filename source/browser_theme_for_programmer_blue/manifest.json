@@ -1,12 +1,18 @@
 {
+  "author": "iamprogrammerlk@gmail.com",
   "description": "Programmer's blue-colored dark theme for your favorite web browser.",
-  "manifest_version": 2,
+  "icons": {
+    "128": "image/store_icon_128x128.png"
+  },
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0YIMq3swKIycmxIA09Iq8W8WAkJTKsWTxFcDZ61WXSdL7Rbwrc66XOv4TljQoot8df1KtLbUVPp7mK8Yn7Ic2pszTcdfwgZHyArCDuLJIqFa5sket7T+FxEJUWeLy3oaB4B0C++m0RKxazJsWGiDfMJ+qiekLowHZNfrKrIV7AWJZprvXFBemv1Eh+DAPcylo1rgyl2mJu9JIdazMlgi+6FFF4dAJqHP+MazpU9Da1jRb4AsMCjbqVF3bvwRclKsEtQUIF89v+1Nod4cNnFcnU6Vx2ka3rMaPjVFDIPAlNUYrTqpNSW2C9Yjst43MbPOisAefPAGVsnWO8KhByV1aQIDAQAB",
+  "manifest_version": 3,
   "name": "Browser Theme for Programmer - Blue",
+  "short_name": "Blue",
   "theme": {
     "images": {
       "theme_frame": "image/theme_frame.png",
       "theme_ntp_attribution": "image/theme_ntp_attribution.png",
-      "theme_ntp_background": "",
+      "theme_ntp_background": "image/theme_ntp_background.png",
       "theme_tab_background": "image/theme_tab_background.png",
       "theme_toolbar": "image/theme_toolbar.png"
     },
@@ -30,9 +36,10 @@
     },
     "properties": {
       "ntp_background_alignment": "top",
-      "ntp_background_repeat": "no-repeat",
+      "ntp_background_repeat": "repeat",
       "ntp_logo_alternate": 1
     }
   },
-  "version": "1.0.0"
+  "version": "1.0.1",
+  "version_name": "blue"
 }
